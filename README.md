@@ -12,6 +12,7 @@ Wykonałem już zadania o następujących nr:
 * #05 [FizzBuzz - Java](https://github.com/fyv1/FizzBuzz)
 * #06 [Rock-Paper-Scissors - Java](https://github.com/fyv1/Rock-Paper-Scissors-Lizard-Spock)
 
+* #45 [Tic-Tac-Toe - C#](https://github.com/fyv1/Tic-Tac-Toe)
 * #61 [PESEL Validator - Java](https://github.com/fyv1/PESEL-validator)
 
 Lista jest wciąż rozbudowywana.
