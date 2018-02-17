@@ -1,6 +1,6 @@
 ## Coding challenges
 Oto lista projektów, które mam zamiar wykonać.
-![Projekty](https://www.wykop.pl/cdn/c3201142/comment_H6osu173Vhe99OsPnFsHb4zvyQLY7JnZ.jpg)
+![Projekty](https://i.imgur.com/FTLkuwN.png)
 
 ## Wykonane zadania
 Wykonałem już zadania o następujących nr: 
